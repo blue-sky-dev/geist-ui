@@ -34,7 +34,6 @@ const Application = () => (
 ## Documentation
 
 - [Document Site](https://geist-ui.dev)
-- [中文文档](https://geist-ui.dev/zh-cn)
 
 ## Development
 
